@@ -44,6 +44,7 @@ $("span").on('click', function(event){
 	event.stopPropagation();
 })
 
+
 //add new todo
 
 $("input[type='text']").keypress(function(event){
